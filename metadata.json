@@ -1,0 +1,5 @@
+{
+  "name": "주문진 빼밀리를 위한 생기부 입력 도우미!!",
+  "description": "A spreadsheet-style interface for teachers to generate professional student record evaluations (생기부) using Google Gemini.",
+  "requestFramePermissions": []
+}
